@@ -7,7 +7,7 @@ Installation:
 
 1. Download Repository: https://github.com/Enigma0/script.pseudotv.min/raw/master/zips/repository.enigma0/repository.enigma0-0.0.3.zip
 2. Install Repository addon in Kodi (Addons > Install from zip > Browse for the downloaded zip file above)
-3. Install PseudoTV addon in Kodi (Addons > Install from repository > Browse repository > Video Addon)
+3. Install PseudoTV addon in Kodi (Addons > Install from repository > Browse repository > Program Addon)
 
 ------------------
 About:
@@ -19,6 +19,15 @@ About:
 - Min has BCT integration *removed*, and anything *other than* locally scraped tv and movies
 - Min has a simplified and straight forward config that could ultimately be ignored for an enjoyable experience
 - Min will have more features/optimizations centered around this basic functionality
+
+------------------
+How to Use:
+------------------
+
+- On the first run it is advised to allow the PseduoTV to AutoTune
+- PseduoTV will only use local media and no plugins, streams, or any external content to build the channels
+- PseduoTV will create any/all relevent genre, staion, studio, etc channels to give you a full range of content from your library
+- PseduoTV will take a while for all the channels to be built if your library is large
 
 ------------------
 Additional Features:
